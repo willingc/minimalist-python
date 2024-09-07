@@ -1,8 +1,8 @@
 .. _reference-index:
 
-#############################
-Minimalist Python Language Reference
-#############################
+###############################
+Minimalist Python Documentation
+###############################
 
 This minimalist reference manual is an unofficial rendering of the The Python Language Reference.
 
@@ -10,7 +10,7 @@ Using the pydata-sphinx-theme for readability, this minimalist documentation imp
 rendering.
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+   :maxdepth: 1
 
    reference/index.rst
+   minimalist-reference/index.rst
