@@ -1,3 +1,4 @@
 Sphinx
 pydata-sphinx-theme
 furo
+myst-parser

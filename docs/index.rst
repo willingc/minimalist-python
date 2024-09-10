@@ -12,5 +12,6 @@ rendering.
 .. toctree::
    :maxdepth: 1
 
-   reference/index.rst
    minimalist-reference/index.rst
+   minimalist-devguide/index.rst
+   minimalist-pathways/index.md
